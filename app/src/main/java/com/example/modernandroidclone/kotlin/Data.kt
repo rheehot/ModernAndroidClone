@@ -1,5 +1,6 @@
 package com.example.modernandroidclone.kotlin
 
+// *** 강의 목차 ***
 // 변수, 상수, 기본자료형, 메서드
 // Unit, 배열, 리스트
 

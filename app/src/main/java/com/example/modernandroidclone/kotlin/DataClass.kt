@@ -1,5 +1,6 @@
 package com.example.modernandroidclone.kotlin
 
+// *** 강의 목차 ***
 // data 클래스, 상속, 인터페이스 구현
 
 fun dataClass() {

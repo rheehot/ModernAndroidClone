@@ -1,5 +1,6 @@
 package com.example.modernandroidclone.kotlin
 
+// *** 강의 목차 ***
 // 확장함수, 자바와 혼용 사용
 
 fun extensionFunc() {

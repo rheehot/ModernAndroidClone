@@ -1,5 +1,6 @@
 package com.example.modernandroidclone.kotlin
 
+// *** 강의 목차 ***
 // if, for, when
 
 fun logic() {
