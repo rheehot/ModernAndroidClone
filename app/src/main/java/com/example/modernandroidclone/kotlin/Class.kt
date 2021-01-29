@@ -11,18 +11,20 @@ fun classFunc() {
     person.name = "한석봉"
     println("person 멤버 변수 name의 상태 : ${person.name}")
 
-    println("Animal 생성 전")
+    println("animal 생성 전")
     val animal = Animal()
     println("**from classFunc**")
-    println("Animal 생성 후")
-    println("Animal의 멤버 변수 name의 상태 : ${animal.name}")
+    println("animal 생성 후")
+    println("animal 멤버 변수 name의 상태 : ${animal.name}")
 
 }
 
 // class는 기본이 public 임
+// 내용이 불필요하면 중괄호 생략 가능
 class Person(var name: String)
 
-class Animal() {
+// 매개 변수가 없으면 소괄호 생략 가능
+class Animal {
 
     val name = "rabbit"
 
