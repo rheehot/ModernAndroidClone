@@ -7,5 +7,6 @@ fun main() {
 //   data()
 //   logic()
 //   classFunc()
-   dataClass()
+//   dataClass()
+   extensionFunc()
 }
